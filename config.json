@@ -1,9 +1,9 @@
 {
   "db": {
-    "port": 57856,
-    "host": "localhost",
-    "username": "user",
-    "password": "password"
+    "port": 19143,
+    "host": "ds019143.mlab.com",
+    "username": "heroku_4t1w3kf2",
+    "password": "ra7843eppuooi5jkbqgh7an4g0"
   },
   "server": {
     "port": 8080,
@@ -12,3 +12,4 @@
   "flavor": "mongodb",
   "debug": true
 }
+mongodb://heroku_4t1w3kf2:ra7843eppuooi5jkbqgh7an4g0@ds019143.mlab.com:19143/heroku_4t1w3kf2?authSource=heroku_4t1w3kf2
